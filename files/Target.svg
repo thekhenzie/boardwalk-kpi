@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 32" preserveAspectRatio="xMidYMid meet" xml:space="preserve">
+<ellipse display="inline" fill="#E6E6E6" cx="15.7" cy="29.5" rx="12.7" ry="1.5" xmlns="http://www.w3.org/2000/svg" /><linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="15.6" y1="29.9" x2="15.6" y2="1.0709" xmlns="http://www.w3.org/2000/svg">
+			<stop offset="0" style="stop-color:#750B0B" />
+			<stop offset="0.5271" style="stop-color:#ED1C24" />
+			<stop offset="1" style="stop-color:#FE6F6F" />
+			<stop offset="1" style="stop-color:#000000" />
+		</linearGradient><circle display="inline" fill="url(#SVGID_7_)" cx="15.6" cy="15.5" r="14.4" xmlns="http://www.w3.org/2000/svg" /><path display="inline" fill="#FFFFFF" d="M15.6,4.8C9.8,4.8,5.1,9.5,5.1,15.3s4.7,10.5,10.5,10.5s10.5-4.7,10.5-10.5    S21.4,4.8,15.6,4.8z M15.6,22c-3.9,0-7-3.1-7-7s3.1-7,7-7s7,3.1,7,7S19.5,22,15.6,22z" xmlns="http://www.w3.org/2000/svg" /><circle display="inline" fill="#FFFFFF" cx="15.6" cy="15.1" r="3" xmlns="http://www.w3.org/2000/svg" /></svg>

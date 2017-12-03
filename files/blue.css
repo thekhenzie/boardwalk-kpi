@@ -1,0 +1,15 @@
+div.tab-menu{
+	background-color:#993399;}
+
+div.vibrant-holder{
+	background-image:url("../try.jpg")}
+	
+	ul.tab-menu>li:hover{color:#fff;background-color:#fdd90e}
+	
+	ul.tab-menu>li.selected{background-color:#fdd90e}
+	
+	div.tab-menu>div.manage-my.selected,div.tab-menu>div.manage-my:hover{background-color:#993399;transition:background .3s ease-in-out}
+	
+	div.tab-menu ul.manage-my{background-color:#993399}
+	
+	div.tab-menu ul.manage-my>li>a:hover{background-color:#fdd90e}

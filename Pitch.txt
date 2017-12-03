@@ -1,0 +1,19 @@
+﻿ Have you ever find yourself trying hard to figure out how to monitor your department? 
+ Many companies requires huge amount of time in assessing, figuring scores, conducting meetings in every department. 
+ In a company, different departments neccessitate to monitor and manage all the reports.
+ This system helps the company in supervising all the departments work and saves more time 
+ in computing department's performance scores since this system gives the actual movement of every department’s task. 
+
+ The main objective of this project is to create a software prototype focusing on database management system that monitors every department in the company. This project includes following:
+
+•	The system allows the user to log in and log out.
+•	Display or present chart of departments’ daily report throughout the year or in a given date. 
+•	Admin can add and delete department.
+•	Admin should see the progress of employees work in their department.
+•	Manager/Head in a department can create and add daily reports from their respective departments.
+•	Performance analysis of each department.
+
+This project will help the company as well as the administrators in accessing daily reports of different departments. It will also be easy to them to know the status of employees’ task and work at the same time to check the progress of it. Charts are also present to monitor the growth of each department. This system helps the administrators in supervising employees work report and productivity. In addition, this system also helps the company to improve their business performance with the use of modern technology.
+
+
+
